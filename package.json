@@ -1,0 +1,24 @@
+{
+  "name": "Assignment By Mohammad Anis Ahmad",
+  "description": "Assignment",
+  "dependencies": {
+    "react-dom": "16",
+    "react": "16",
+    "quill": "1.3.6",
+    "prop-types": "latest",
+    "jszip": "3.1.3",
+    "devextreme-react": "19.1",
+    "devextreme": "19.1",
+    "devexpress-diagram": "latest"
+  },
+  "version": "0.0.0",
+  "devDependencies": {
+    "react-scripts": "1.0.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

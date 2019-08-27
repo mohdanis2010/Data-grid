@@ -1,0 +1,22 @@
+#gridContainer {
+    height: 440px;
+}
+
+.sumColor {
+    color: rgba(255, 0, 0, 0.801) !important;
+}
+
+.dx-datagrid-text-content {
+    color: rgba(20, 4, 4, 0.74);
+    font-weight: bold
+}
+
+.dx-widget {
+    margin: auto;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.note {
+    font-size: 12px;
+    margin: 16px 0 0 11%;
+}
